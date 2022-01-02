@@ -1,5 +1,5 @@
 
-# **Attrition rate analysis**
+# **Attrition rate analysis using R**
 author: "Sohom Das"
 
 
